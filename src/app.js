@@ -16,5 +16,5 @@ window.onload = function() {
           };
         };
       };
-      console.log("Hello Rigo from the console!")
+      console.log("Hello Rigo from the console!");
   }
