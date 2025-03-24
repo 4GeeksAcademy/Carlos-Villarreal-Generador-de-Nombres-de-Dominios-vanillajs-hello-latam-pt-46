@@ -10,9 +10,9 @@ window.onload = function() {
         for(let j = 0; j < adj.length; j++) {
           for(let k = 0; k < noun.length; k++) {
             console.log(pronoun[i] + adj[j] + noun[k]+'.com');
-            console.log(pronoun[i] + adj[m] + noun[n] + ".net");
-            console.log(pronoun[i] + adj[m] + noun[n] + ".us");
-            console.log(pronoun[i] + adj[m] + noun[n] + ".io");
+            console.log(pronoun[i] + adj[j] + noun[k] + ".net");
+            console.log(pronoun[i] + adj[j] + noun[k] + ".us");
+            console.log(pronoun[i] + adj[j] + noun[k] + ".io");
           };
         };
       };
